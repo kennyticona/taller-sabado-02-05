@@ -5,9 +5,7 @@ def main():
     while i = 2 
 
     else i = 20
-        print ("vender acciones", i)
         print("Hola mundo")
 
-      print("Todo OK")
         
 main()
