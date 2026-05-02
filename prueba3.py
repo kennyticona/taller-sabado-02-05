@@ -3,8 +3,9 @@ def main():
     
   i=0
     while i = 2 
-    else i = 6 
-    else i = 10
+
+    else i = 20
         print ("vender acciones", i)
+        print("Hola mundo")
         
 main()
